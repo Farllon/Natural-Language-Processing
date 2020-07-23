@@ -1,5 +1,6 @@
 # Natural Language Processing
 Repositório para minhas atividades de Processamento de Linguagem Natural
+![Header](https://github.com/Farllon/Natural-Language-Processing/blob/master/header.jpg)
 
 # Exercício do restaurante
 
